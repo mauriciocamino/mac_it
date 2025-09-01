@@ -1,0 +1,79 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 30 Aug 2025 10:20:03 at https://be-it.com.mx/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://be-it.com.mx/ -O1 "C:\bck\macsoftware" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:22:26	Warning: 	Moved Permanently for https://be-it.com.mx/?p=407
+10:22:26	Warning: 	File has moved from https://be-it.com.mx/?p=407 to https://be-it.com.mx/conocenos/
+10:22:31	Warning: 	Moved Permanently for https://be-it.com.mx/?p=566
+10:22:31	Warning: 	File has moved from https://be-it.com.mx/?p=566 to https://be-it.com.mx/servicios/fabrica-de-software/
+10:22:31	Warning: 	Retry after error -5 (Unable to get server's address: Host desconocido. ) at link beit.damarysmoreno.com/wp-content/uploads/2022/05/arrow.png (from https://be-it.com.mx/servicios/fabrica-de-software/)
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=599
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=599 to https://be-it.com.mx/servicios/transformacion-digital/
+10:22:32	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/trasndigital.jpg (from https://be-it.com.mx/servicios/transformacion-digital/)
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=597
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=597 to https://be-it.com.mx/servicios/desarrollo-a-la-medida/
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=601
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=601 to https://be-it.com.mx/servicios/asignacion-de-talento-humano/
+10:22:32	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/icono_Be_IT_Black.png (from https://be-it.com.mx/servicios/consultoria-ti/)
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=603
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=603 to https://be-it.com.mx/servicios/consultoria-ti/
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=605
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=605 to https://be-it.com.mx/servicios/desarrollo-de-apps/
+10:22:32	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/app.jpg (from https://be-it.com.mx/servicios/desarrollo-de-apps/)
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=1164
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=1164 to https://be-it.com.mx/servicios/desarrollo-de-apps-para-pymes/
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=607
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=607 to https://be-it.com.mx/servicios/diagnostico-ti/
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=609
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=609 to https://be-it.com.mx/servicios/ecommerce/
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=611
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=611 to https://be-it.com.mx/servicios/paginas-web/
+10:22:32	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/pag-web.jpg (from https://be-it.com.mx/servicios/paginas-web/)
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=466
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=466 to https://be-it.com.mx/vacantes/
+10:22:32	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/05/about-one-img-1.jpg (from https://be-it.com.mx/vacantes/)
+10:22:32	Warning: 	Moved Permanently for https://be-it.com.mx/?p=1286
+10:22:32	Warning: 	File has moved from https://be-it.com.mx/?p=1286 to https://be-it.com.mx/blog/
+10:22:49	Warning: 	Moved Permanently for https://be-it.com.mx/?p=258
+10:22:49	Warning: 	File has moved from https://be-it.com.mx/?p=258 to https://be-it.com.mx/contacto/
+10:22:49	Warning: 	Moved Permanently for https://be-it.com.mx/?p=256
+10:22:49	Warning: 	File has moved from https://be-it.com.mx/?p=256 to https://be-it.com.mx/servicios/
+10:22:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/map-Q676QDA.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-407.css?ver=1706301955)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/05/map-dotted.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-566.css?ver=1666358156)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/05/arrow.png (from https://be-it.com.mx/servicios/fabrica-de-software/)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/trasndigital.jpg (from https://be-it.com.mx/servicios/transformacion-digital/)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/icono_Be_IT_Black.png (from https://be-it.com.mx/servicios/consultoria-ti/)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/app.jpg (from https://be-it.com.mx/servicios/desarrollo-de-apps/)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/pag-web.jpg (from https://be-it.com.mx/servicios/paginas-web/)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/entrepreneurs-working-on-project-indoors-in-office-SQH394N.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-466.css?ver=1718590604)
+10:22:50	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/05/about-one-img-1.jpg (from https://be-it.com.mx/vacantes/)
+10:22:50	Warning: 	Moved Permanently for https://be-it.com.mx/?p=2142
+10:22:50	Warning: 	File has moved from https://be-it.com.mx/?p=2142 to https://be-it.com.mx/be_it-microsoft-partner/
+10:22:50	Warning: 	Moved Permanently for https://be-it.com.mx/?p=2024
+10:22:50	Warning: 	File has moved from https://be-it.com.mx/?p=2024 to https://be-it.com.mx/elementor-2024/
+10:22:50	Error: 	"Method Not Allowed" (405) at link https://be-it.com.mx/xmlrpc.php (from https://be-it.com.mx/elementor-2024/)
+10:22:59	Warning: 	Moved Permanently for https://be-it.com.mx/?p=1926
+10:22:59	Warning: 	File has moved from https://be-it.com.mx/?p=1926 to https://be-it.com.mx/caso-de-exito-agencia-de-marketing/
+10:22:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/map-Q676QDA.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-407.css?ver=1706301955)
+10:22:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/05/map-dotted.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-566.css?ver=1666358156)
+10:22:59	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/05/arrow.png (from https://be-it.com.mx/servicios/fabrica-de-software/)
+10:22:59	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/06/trasndigital.jpg (from https://be-it.com.mx/servicios/transformacion-digital/)
+10:22:59	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/06/icono_Be_IT_Black.png (from https://be-it.com.mx/servicios/consultoria-ti/)
+10:22:59	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/06/app.jpg (from https://be-it.com.mx/servicios/desarrollo-de-apps/)
+10:22:59	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/06/pag-web.jpg (from https://be-it.com.mx/servicios/paginas-web/)
+10:22:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link beit.damarysmoreno.com/wp-content/uploads/2022/06/entrepreneurs-working-on-project-indoors-in-office-SQH394N.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-466.css?ver=1718590604)
+10:22:59	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/05/about-one-img-1.jpg (from https://be-it.com.mx/vacantes/)
+10:23:01	Warning: 	Moved Permanently for https://be-it.com.mx/?p=1337
+10:23:01	Warning: 	File has moved from https://be-it.com.mx/?p=1337 to https://be-it.com.mx/por-que-es-importante-el-desarrollo-de-aplicaciones-moviles-para-su-empresa/
+10:23:01	Warning: 	Moved Permanently for https://be-it.com.mx/?p=1229
+10:23:01	Warning: 	File has moved from https://be-it.com.mx/?p=1229 to https://be-it.com.mx/tipos-de-aplicacion-que-tu-empresa-necesita/
+10:23:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/06/map-Q676QDA.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-407.css?ver=1706301955)
+10:23:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/05/map-dotted.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-566.css?ver=1666358156)
+10:23:01	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link beit.damarysmoreno.com/wp-content/uploads/2022/06/entrepreneurs-working-on-project-indoors-in-office-SQH394N.jpg (from https://be-it.com.mx/wp-content/uploads/elementor/css/post-466.css?ver=1718590604)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 58 seconds : 387 links scanned, 338 files written (30278677 bytes overall) [17634335 bytes received at 99069 bytes/sec], 18926165 bytes transferred using HTTP compression in 241 files, ratio 32%, 10.9 requests per connection
+(10 errors, 58 warnings, 0 messages)

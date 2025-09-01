@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+be-it.com.mx	TRUE	/	FALSE	1999999999	fm_cookie_fd4e8a23e1d647536b0bb03a583e9a0e	fd4e8a23e1d647536b0bb03a583e9a0e
+be-it.com.mx	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
