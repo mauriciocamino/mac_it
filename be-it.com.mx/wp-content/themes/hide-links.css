@@ -1,0 +1,54 @@
+/* Ocultar todos los enlaces a vacantes/index.html */
+a[href$="vacantes/index.html"],
+a[href*="/vacantes/index.html"],
+a[href^="vacantes/index.html"],
+A[HREF$="vacantes/index.html"],
+A[HREF*="/vacantes/index.html"],
+A[HREF^="vacantes/index.html"],
+a[href$="VACANTES/INDEX.HTML"],
+a[href*="/VACANTES/INDEX.HTML"],
+a[href^="VACANTES/INDEX.HTML"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    left: -9999px !important;
+    top: -9999px !important;
+    width: 1px !important;
+    height: 1px !important;
+    overflow: hidden !important;
+}
+
+/* Ocultar elementos de menú específicos */
+#menu-item-485,
+.menu-item-485 {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Ocultar todos los enlaces a conocenos/index.html */
+a[href$="conocenos/index.html"],
+a[href*="/conocenos/index.html"],
+a[href^="conocenos/index.html"],
+A[HREF$="conocenos/index.html"],
+A[HREF*="/conocenos/index.html"],
+A[HREF^="conocenos/index.html"] {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    position: absolute !important;
+    left: -9999px !important;
+    top: -9999px !important;
+    width: 1px !important;
+    height: 1px !important;
+    overflow: hidden !important;
+}
+
+/* Ocultar elementos de menú específicos */
+#menu-item-486,
+.menu-item-486 {
+    display: none !important;
+    visibility: hidden !important;
+}
